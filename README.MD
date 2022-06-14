@@ -1,5 +1,7 @@
 <p align="center">
+  <a href="https://mthenrique.github.io/doctor-care/">
     <img alt="Git Explorer" src="./.github/Capa.png"/>
+  </a>
 </p>
 
 <h1 align="center">
@@ -23,6 +25,7 @@
 ## 🚀 Projeto
 
 DoctorCare, um site 100% responsivo para divulgação de clínicas e agendamento de consultas.
+Acesse o site exemplo [CLICANDO AQUI](https://mthenrique.github.io/doctor-care/)
 
 ## 🔧 Tecnologias
 
