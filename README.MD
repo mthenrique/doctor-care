@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://mthenrique.github.io/doctor-care/">
+  <a href="https://mthenrique.github.io/doctor-care/" target="_blank">
     <img alt="Git Explorer" src="./.github/Capa.png"/>
   </a>
 </p>
