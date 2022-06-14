@@ -16,7 +16,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/mthenrique/" target="_blank">
-    <img alt="Follow me Linkedin" src="https://img.shields.io/badge/Follow%20up-victorborsatto-2ecc71?style=social&logo=linkedin">
+    <img alt="Follow me Linkedin" src="https://img.shields.io/badge/Follow%20up-mthenrique-2ecc71?style=social&logo=linkedin">
   </a>
 </p>
 
